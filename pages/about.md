@@ -10,18 +10,20 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About My Childhood memories;About the Curator;Connect with us" %}
 
-## About the Collection
+## About My Childhood memories
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+You will find items in this collection that bring back memories of our youth, such as playing games, hanging out with my siblings, attending school, and exploring the world.  Every item tells a tale.  Some are humorous, some are a touch depressed, and some are joyful.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## About the Curator
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Nicolai Cabaña is a Saint Paul University Surigao student pursuing a bachelor's degree in library and information science.  "Childhood Memories" is my choice because our formative years are filled with memorable experiences.  Our identities are shaped in part by these recollections.
+
+
+## Connect with Us
+
+
+If you have any questions, feel free to contact Nicolai at Nicolai021405@gmail.com or join the conversation on the My Childhood Memories GitHub Discussion Board.
